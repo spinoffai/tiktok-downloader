@@ -8,3 +8,4 @@ httpx
 aiohttp
 moviepy
 pyjsparser
+gunicorn
